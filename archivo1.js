@@ -1,1 +1,3 @@
-console.log("Hola, soy Guido y vamos a generar un conflicto!");
+
+console.log("Hola, somos Guido y Nati!");
+
