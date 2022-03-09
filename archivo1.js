@@ -1,1 +1,1 @@
-console.log("Hola, soy Guido!");
+console.log("Hola, somos Guido y Nati!");
